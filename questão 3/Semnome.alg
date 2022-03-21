@@ -4,13 +4,11 @@ algoritmo "semnome"
 // Data : 21/03/2022
 // Seção de Declarações 
 var
-a,b,c:real
-
+valor:real
+antecessor:real
 inicio
-// Seção de Comandos 
-a<-10
-b<-5
-c<-(a+b)-1
-
-escreval("seu antecessor é: ",c)
+// Seção de Comandos
+valor<-15
+antecessor<-valor-1
+escreval("seu antecessor é: ",antecessor)
 fimalgoritmo
