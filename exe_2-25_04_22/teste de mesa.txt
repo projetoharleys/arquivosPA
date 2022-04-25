@@ -1,0 +1,12 @@
+2
+algoritmo
+   Digite QTDEMIN
+   Digite QTDEMAX
+   Faça estoquemedio=(QTDEMIN+QTDEMAX)/2
+   Mostre estoquemedio
+fimAlgoritmo
+
+TESTE DE MESA 
+
+QTDEMIN  QTDEMAX  estoquemedio
+15        200         107,5
