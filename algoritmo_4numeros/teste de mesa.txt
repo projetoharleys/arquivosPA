@@ -1,0 +1,18 @@
+
+
+Algoritmo Converte_Dolar
+
+   Digite um valor para N1 
+   Digite um valor para N2 
+   Digite um valor para N3
+   Digite um valor para N4
+   Faça o total= (N1*2)+(N2*2)+(N3*2)+(N4*2)
+   Mostre o total  
+
+
+FimAlgoritmo  
+
+Teste de mesa
+
+n1 n2 n3 n4 total
+4  16 25 36  81
