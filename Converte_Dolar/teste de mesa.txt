@@ -1,0 +1,10 @@
+
+
+Algoritmo Converte_Dolar
+
+   Digite o valor da cotação e armazene em cotação
+   Digite a quantia em Reais e armazene em valor_rais 
+   Faça valor_em_dolar= valor_rais/cotação
+   mostre valor_em_dolar
+
+FimAlgoritmo  
