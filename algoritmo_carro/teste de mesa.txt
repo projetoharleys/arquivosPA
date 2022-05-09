@@ -1,0 +1,16 @@
+Algoritmo
+   
+   Digite o valor do carro de fabrica
+   Faça o total=((Custo_fabrica*0.45)+Custo_fabrica)*0.28
+   Mostre o total 
+   
+FimAlgoritmo
+
+
+
+
+
+
+TESTE DE MESA 
+Custo_fabrica   impostos   distribuicao   total
+    25.000         45%          28%       10.150                   
