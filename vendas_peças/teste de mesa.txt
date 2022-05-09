@@ -1,0 +1,18 @@
+Algoritmo
+
+   Digite o valor da peça 
+   Digite a quantidade vendida
+   Faça a comissao= preco_peca*qntd_vendida*0.5
+   mostre a comissao 
+
+FimAlgoritmo
+
+
+
+
+
+
+TESTE DE MESA 
+
+Preco_peca   qntd_vendida        comissao 
+   2.5           200        500 e 25 de comissao(5%)
